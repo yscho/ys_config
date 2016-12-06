@@ -1,4 +1,3 @@
-tion....
 
 
 set nocompatible              " be iMproved, required
