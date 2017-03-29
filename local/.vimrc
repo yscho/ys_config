@@ -51,7 +51,7 @@ endif
  map <C-L> :Tlist<CR>
  map <C-F11> :set paste<CR>
  map <C-F12> :set paste!<CR>
-
+ nmap <F12> :windo set scb!<CR>
 
   if filereadable("/ys_config/.vundle.vim")
         so /ys_config/.vundle.vim
