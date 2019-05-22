@@ -32,7 +32,19 @@ Plugin 'rstacruz/sparkup', {'rtp': 'vim/'}
 Plugin 'highlight.vim'
 " All of your Plugins must be added before the following line
 Plugin 'The-NERD-tree'
+" Right popup option to .vimrc -> let g:NERDTreeWinPos = "right"
+
 Plugin 'taglist.vim'
+
+Plugin 'AutoComplPop'
+
+
+Plugin 'ctrpvim/ctrlp.vim'
+Plugin 'scrooloose/syntastic'
+Plugin 'bling/vim-airline'
+Plugin 'terryma/vim-multiple-cursors'
+
+Plugin 'Source-Explorer-srcexpl.vim'
 
 call vundle#end()            " required
 filetype plugin indent on    " required
