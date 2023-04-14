@@ -11,10 +11,10 @@ sudo vi /etc/ssh/sshd_config
 - Use DNS -> allow (delete the comment)
 
 
-''' shell
+``` shell
 open file
 sudo vi /etc/srvices
-'''
+```
 - allow the "ssh 22/udp" and "ssh 22/tcp"
 
 and then, run bleow shell command
