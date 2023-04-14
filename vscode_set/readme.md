@@ -18,11 +18,12 @@
  - 이건 코드가 이미지파일로 되는데,, 잘 안쓸 듯, 
  - 그냥 ``` "" ``` 쓰는게 좋음.
 
- - GitLens가 보기 불편해서 "Git Graph"
- - Material Icon Theme
- - indent-rainbow
- - Open Folder Context Menus for VS Code
- - Path Intellisense
+🗒️Comments and plus, 
+	 - GitLens가 보기 불편해서 "Git Graph"
+	 - Material Icon Theme
+	 - indent-rainbow
+	 - Open Folder Context Menus for VS Code
+	 - Path Intellisense
 
 # Extention short review
 
