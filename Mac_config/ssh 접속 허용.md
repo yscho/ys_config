@@ -10,8 +10,9 @@ sudo vi /etc/ssh/sshd_config
 ```
 - Use DNS -> allow (delete the comment)
 
+and then, 
 
-``` shell
+```shell
 open file
 sudo vi /etc/srvices
 ```
