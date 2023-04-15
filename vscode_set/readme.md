@@ -3,8 +3,9 @@
  
 ## 1. Setting Sync
  - VScode setting 을 github를 이용하여동기화 할 수 있음.
+ - 현재는 tool 자체 지원 하고 있음.
 ## 3. ESLint
- - 코드 에디터 자체 에서 바로 피드백
+ - 코드 에디터 자체 에서 바로 피드백 (parameter, arg 등등)
  - 
 ## 4. GitLens
 
